@@ -7,6 +7,7 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
+	<plugin name="com.paypal.cordova.mobilesdk" spec="3.1.2" source="pgb" />
     <content src="index.html" />
     <access origin="*" />
 </widget>
